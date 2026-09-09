@@ -126,13 +126,13 @@ The CPU was synthesized and implemented using **Xilinx Vivado**.
 
 ### Resource Utilization
 
-![FPGA Resource Utilization](images/utilization.png)
+![FPGA Resource Utilization](images/utilization.jpeg)
 
 The design used approximately **15.29% LUTs** and **3.61% flip-flops**.
 
 ### Timing Analysis
 
-![FPGA Timing](images/timing.png)
+![FPGA Timing](images/timing.jpeg)
 
 | Parameter | Result |
 |----------|-------:|
@@ -144,7 +144,7 @@ The design used approximately **15.29% LUTs** and **3.61% flip-flops**.
 
 ### Power Analysis
 
-![FPGA Power Analysis](images/power.png)
+![FPGA Power Analysis](images/power.jpeg)
 
 | Power Component | Power |
 |----------------|------:|
